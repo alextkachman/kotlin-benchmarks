@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.google.guava:guava:13.0.1" type="repository">
+    <properties maven-id="com.google.guava:guava:13.0.1" />
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/../kotlin/dist/kotlinc" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/guava-13.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/guava-13.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
